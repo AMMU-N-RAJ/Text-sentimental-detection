@@ -132,6 +132,6 @@ Distributed under the MIT License. See `LICENSE` for more information. ⚖️
 
 ## 📞 Contact
 
-Your Name - your.email@example.com 📧
+Ammu - ammunraj18@gmail.com 📧
 
 Project Link: [https://github.com/yourusername/sentiment-analysis-project](https://github.com/yourusername/sentiment-analysis-project) 🔗
