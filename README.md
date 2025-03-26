@@ -4,8 +4,6 @@
 ## 🌟 Overview
 
 Dive into the world of text emotions with our Python-powered Sentiment Analysis Project! 🚀 Uncover the hidden feelings behind words using two awesome natural language processing libraries. 🧠💡
-
-# Text-sentimental-detection
 A Sentiment analysis project provides A comprehensive approach to analyzing text sentiment using two popular Python libraries: NLTK and TextBlob. 
 
 ![demo](https://github.com/AMMU-N-RAJ/Text-sentimental-detection/blob/main/img10.png)
